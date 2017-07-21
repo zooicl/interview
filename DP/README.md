@@ -1,7 +1,7 @@
-##Knapsac
-##Permutation
-##Combination
-##Subset Sum Problem
+## Knapsac
+## Permutation
+## Combination
+## Subset Sum Problem
 ```java
 // Returns true if there is a subset of set[] with sun equal to given sum
 bool isSubsetSum(int set[], int n, int sum)
@@ -22,8 +22,8 @@ bool isSubsetSum(int set[], int n, int sum)
    return isSubsetSum(set, n-1, sum) || 
                         isSubsetSum(set, n-1, sum-set[n-1])
 ```
-##Longest Paradromic Sequence
-##Longest subsequent array with maximum sum
-##Longest Common Subsequence
-##Longest increasing Subsequence
-##Job scheduling Problem
+## Longest Paradromic Sequence
+## Longest subsequent array with maximum sum
+## Longest Common Subsequence
+## Longest increasing Subsequence
+## Job scheduling Problem
