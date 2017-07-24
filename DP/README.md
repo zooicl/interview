@@ -3,6 +3,7 @@ http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
 ### Permutation
 ### Combination
 ### Subset Sum Problem
+http://www.geeksforgeeks.org/dynamic-programming-subset-sum-problem/
 
 ### Longest Paradromic Sequence
 http://www.geeksforgeeks.org/dynamic-programming-set-12-longest-palindromic-subsequence/
